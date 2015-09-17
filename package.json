@@ -1,7 +1,6 @@
 {
   "name": "hapily",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "chalk": "^1.1.0",
@@ -14,5 +13,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rt2zz <zack@root-two.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rt2zz/hapily.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rt2zz/hapily/issues"
+  },
+  "homepage": "https://github.com/rt2zz/hapily#readme",
+  "description": ""
 }
