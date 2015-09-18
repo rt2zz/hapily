@@ -27,7 +27,6 @@ module.exports = function(routeMaps){
 
       var validate = undefined
       if(typeof manifest.validate !== 'undefined'){
-        console.log('M', manifest.validate, typeof manifest.validate)
         validate = manifest.validate !== null && manifest.validate.isJoi ? manifest.validate : Joiify(manifest.validate)
       }
 
