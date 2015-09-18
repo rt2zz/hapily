@@ -1,6 +1,6 @@
 {
   "name": "hapily",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "chalk": "^1.1.0",
