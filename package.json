@@ -3,10 +3,10 @@
   "version": "1.1.1",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^1.1.0",
-    "hapi": "^9.3.1",
+    "chalk": "1.1.1",
+    "hapi": "9.3.1",
     "joiify": "0.0.5",
-    "lodash": "^3.10.0"
+    "lodash": "3.10.1"
   },
   "devDependencies": {},
   "scripts": {
