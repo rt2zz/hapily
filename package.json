@@ -4,7 +4,7 @@
   "main": "index.js",
   "dependencies": {
     "chalk": "1.1.1",
-    "hapi": "10.1.0",
+    "hapi": "13.2.2",
     "joiify": "0.0.5",
     "lodash": "3.10.1"
   },
